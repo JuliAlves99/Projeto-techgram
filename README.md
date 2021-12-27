@@ -4,4 +4,4 @@ A rede social chama-se Techgram (rsrsrs), um espaço no qual devs de todo o mund
 
  Para a construção da interface de login utilizei HTML e CSS.
  
-[!captura da tela de login do techgram](https://github.com/JuliAlves99/Projeto-techgram/blob/master/tela-techgram.jpeg)
+![captura da tela de login do techgram](https://github.com/JuliAlves99/Projeto-techgram/blob/master/tela-techgram.jpeg)
